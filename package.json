@@ -1,5 +1,5 @@
 {
-  "name": "kauo-ai-vercel",
+  "name": "kauo",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
@@ -9,3 +9,4 @@
   }
 
 }
+
